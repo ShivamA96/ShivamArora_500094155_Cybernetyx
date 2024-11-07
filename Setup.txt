@@ -5,4 +5,5 @@ a) Install requirements using requirements.txt file :
 b) CD into app folder
 c) run the command : uvicorn main:app --host 0.0.0.0 --port 8000
 
-You are all set! no just try the server using postman or thunder and 
+You are all set! no just query the server using postman or thunder 
+The two endpoints are /query and /ingest
